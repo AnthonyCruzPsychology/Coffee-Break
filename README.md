@@ -1,15 +1,28 @@
-# Coffee Break Flier Template
-Repository containing flier template for BMI/WIN Coffee Break.
+# Coffee Break Flier Templates
 
 ## Instructions - 1 Speaker
-1. Open the file *Email Flier Template - HTML.html*.
-2. Edit Line 13 to reflect the date, time, and location of the coffee talk.
-3. Edit Line 25 to include the name of the speaker.
-4. Edit Line 26 to include the description of the speaker.
-5. Edit Line 36 to include the name of the talk.
-6. Edit Line 37 to include the description of the talk.
+1. Open the file *Email Flier Template - 1 Speaker.html*.
+2. Save As *coffeetalkYYYY_poster_MMMDD-T.html*. YYYY is the year, MMM is an abbreviation of the month, DD is the day of the month, and T is the time of the talk. I.e., a talk on June 9th 2023 at 11am might be called *coffetalk2023_poster_Jun09-11am.html*.
+3. Edit Line 12 to reflect the date, time, and location of the coffee talk.
+4. Edit Line 20 to include a URL to a photo of the speaker.
+5. Edit Line 26 to include the name of the speaker.
+6. Edit Line 29 to include the description of the speaker.
+7. Edit Line 42 to include the name of the talk.
+8. Edit Line 45 to include the description of the talk.
+9. Open the HTML document in your web browser.
+10. Print > Save as PDF using the **Tabloid** paper size.
 
-**Email Fliter Template - HTML.html**
-- As an HTML document, formatting happens automatically.
-- This file can be pasted directly into the body of an email and added directly to any webpage.
-- To save the file as a PDF, open it in your web browser. In Google Chrome, you can click *print... > Save as PDF*. This process may look slightly different in different web browsers.
+## Instructions - 2 Speakers
+1. Open the file *Email Flier Template - 2 Speakers.html*.
+2. Save As *coffeetalkYYYY_poster_MMMDD-T.html*. YYYY is the year, MMM is an abbreviation of the month, DD is the day of the month, and T is the time of the talk. I.e., a talk on June 9th 2023 at 11am might be called *coffetalk2023_poster_Jun09-11am.html*.
+3. Edit Line 12 to reflect the date, time, and location of the coffee talk.
+4. Edit Line 20 to include a URL to a photo of Speaker A.
+5. Edit Line 26 to include the name of Speaker A.
+6. Edit Line 29 to include the description of Speaker A.
+7. Edit Line 44 to include the name of Speaker B.
+8. Edit Line 47 to include the description of Speaker B.
+9. Edit Line 51 to include a URL to a photo of Speaker B.
+10. Edit Line 64 to include the name of the talk.
+11. Edit Line 66 to include the description of the talk.
+12. Open the HTML document in your web browser.
+13. Print > Save as PDF using the **Tabloid** paper size.
